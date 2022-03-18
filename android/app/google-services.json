@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481654160764",
+    "project_id": "ddos-guard",
+    "storage_bucket": "ddos-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481654160764:android:c50365816a8cd0d216b8f9",
+        "android_client_info": {
+          "package_name": "com.ddos.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481654160764-rdvhcgv51nsmcqo1hlueqr9bc3q4cgg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkeBd87cJNqH50xr6YTzmipBnJHjxxAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481654160764-rdvhcgv51nsmcqo1hlueqr9bc3q4cgg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
